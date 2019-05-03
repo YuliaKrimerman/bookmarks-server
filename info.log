@@ -1,0 +1,50 @@
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Card with id 2 not found.","level":"error"}
+{"message":"List with id 2 not found.","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Title is required","level":"error"}
+{"message":"Card with id f5ae6f10-f655-4b97-a9b5-2ce0f3566750 created","level":"info"}
+{"message":"List with id bd2bc39d-919c-425e-a3dd-5bf5bea17932 created","level":"info"}
+{"message":"List with id dd957288-6215-4a91-a5cb-3de8412db295 created","level":"info"}
+{"message":"List with id 69898ce4-24ae-4d6b-b06c-e0fe56ca6055 created","level":"info"}
+{"message":"List with id 79d8b415-e316-4607-b19d-926e903b714d created","level":"info"}
+{"message":"List with id 92b97b65-66d6-4f53-b591-70f6ddeac135 created","level":"info"}
+{"message":"List with id 1ceb6d1a-9333-4a4b-ae53-0c5f8345f44e created","level":"info"}
+{"message":"List with id f0d7d799-3e92-46d7-af1d-7fc9d8170392 created","level":"info"}
+{"message":"List with id da6a81e5-cca9-4873-84f6-087afbc85d84 created","level":"info"}
+{"message":"List with id 2fc0ac4f-da61-4566-b520-31ee65653913 created","level":"info"}
+{"message":"List with id 704ad487-5bc5-4763-b172-4fce9fd70cf5 created","level":"info"}
+{"message":"List with id 8b018ec3-6296-4465-8f16-387131269b43 created","level":"info"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"rating is required","level":"error"}
+{"message":"Invalid rating '0' supplied","level":"error"}
+{"message":"Invalid rating '2' supplied","level":"error"}
+{"message":"Invalid url 'google.com' supplied","level":"error"}
+{"message":"Bookmark with id 779bd8a8-7a97-481b-a679-d3e93552e993 created","level":"info"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 0 not found.","level":"error"}
+{"message":"Bookmark with id 1 not found.","level":"error"}
+{"message":"Bookmark with id 2 not found.","level":"error"}
+{"message":"Bookmark with id 2 deleted.","level":"info"}
